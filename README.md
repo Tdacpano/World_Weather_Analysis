@@ -1,3 +1,3 @@
 # World_Weather_Analysis
-The overall purpose of this analysis was to enhance our PlanMyTrip App module by 
+The overall purpose of this analysis was to enhance our module work "PlanMyTrip App" by 
 requesting weather description data from an online weather api. When then created input statements for beta testers to use in order to filter the data for their own weather preferences. These preferences were then used to identify potential travel destinations and nearby hotels. We then had the tester choose up to four potential cities from the list of potential travel destinations and we created a travel itinerary. The itinerary consisted of the possible routes to each of the four cities by using the Geoapify Routing API and each cities latitude and longitude coordinates. Finally, we added a marker layer map showing the distance bewteen each city. 
